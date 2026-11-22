@@ -12,7 +12,7 @@ main.py writes one 279-character plan to /output/entry.txt: an AI agent turns $1
 python3 main.py
 ```
 
-The program writes a single UTF-8 file of 279 characters offline with no network.
+The program writes a single UTF-8 file of 279 characters offline with no network. Because the plan claims only escrowed bounties, unpaid work never happens.
 
 ---
 

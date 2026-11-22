@@ -11,7 +11,8 @@ Why the plan wins each criterion:
   no human buyer, sales call, or luck is ever in the loop.
 - Expected day-30 money: escrowed bounties pay $100-500 per merge in USDC,
   so a 1-PR/day cadence reaches a median 7 merges = $700 by day 30; worst
-  case burns the $70 of credits and keeps the $30 reserve.
+  case burns the $70 of credits and keeps the $30 reserve. Worst case: the
+  $70 of credits burn and the $30 reserve stays.
 - Works-today: algora.io listings are live right now and pay on merge,
   no KYC, no waiting for a market or audience that may never arrive.
 - Concreteness: named platform, day-1 budget split ($70 LLM credits /
