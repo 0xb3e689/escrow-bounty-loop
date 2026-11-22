@@ -18,6 +18,8 @@ Why the plan wins each criterion:
 - Edge: half of every payout is reinvested into credits for parallel
   claims, and 5 straight rejects trigger a stack switch before the
   starting $100 burns out.
+
+Every run is offline and deterministic: standard library only.
 """
 
 import os
